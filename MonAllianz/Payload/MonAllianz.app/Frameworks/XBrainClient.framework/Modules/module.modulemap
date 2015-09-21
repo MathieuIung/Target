@@ -1,6 +1,0 @@
-framework module XBrainClient {
-  umbrella header "XBrainClient.h"
-
-  export *
-  module * { export * }
-}
